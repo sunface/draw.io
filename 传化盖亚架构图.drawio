@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-04T06:33:42.541Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15" etag="YDHYSBA_z0B5vWKXY_o7" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-04T06:35:23.946Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15" etag="9qVy8N9B40AIocXvyYgj" version="12.1.9" type="github" pages="1">
   <diagram id="FnI3KrgoX1rfX9Rhpm_h" name="Page-1">
     <mxGraphModel dx="946" dy="1438" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -241,7 +241,7 @@
         <mxCell id="um3B2b6yP7-CS58X5cLj-20" value="Jira" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#dae8fc;fontSize=11;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="775" y="-297" width="73" height="49" as="geometry"/>
         </mxCell>
-        <mxCell id="um3B2b6yP7-CS58X5cLj-22" value="盘古智能运维平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="um3B2b6yP7-CS58X5cLj-22" value="盘古AIOps平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="356" y="-734" width="159" height="20" as="geometry"/>
         </mxCell>
       </root>
